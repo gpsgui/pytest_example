@@ -1,2 +1,2 @@
 # pytest_example
-An example using the pytest framework
+An example using the pytest framework to test classes
